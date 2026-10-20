@@ -1,15 +1,16 @@
 # customer-churn-intelligence-platform
 
- Connect SQL database to Python – pandas and sqlite3
-• Data import using SQL query in Python – pandas and sqlite3
-• Data Cleaning – numpy and pandas
-• data types, rename cols, select specific cols, QCs, handle missing/null values
-• Feature Engineering – numpy and pandas
-• Create new calculated cols, data transformation, use filters
-• Data Analysis – numpy and pandas
-• EDA - aggregation, group by, pivot table
-• Data Visualization – matplotlib and seaborn
-• Insights on ppt – key insights, next steps, impact to show in resum
+
+- Connect SQL database to Python – pandas and sqlite3
+- Data import using SQL query in Python – pandas and sqlite3
+- Data Cleaning – numpy and pandas
+- Data types, rename cols, select specific cols, QCs, handle missing/null values
+- Feature Engineering – numpy and pandas
+- Create new calculated cols, data transformation, use filters
+- Data Analysis – numpy and pandas
+- EDA - aggregation, group by, pivot table
+- Data Visualization – matplotlib and seaborn
+- Insights on ppt – key insights, next steps, impact to show in resume
 
 <img width="1377" height="700" alt="Screenshot 2026-10-20 104707" src="https://github.com/user-attachments/assets/30534fd1-92c3-4d1e-8025-5fe769408afd" />
 
